@@ -16,6 +16,8 @@ depend on the order of the two proteins.
 The feature table can be far larger than RAM: the CSV is streamed once into an
 on-disk `numpy.memmap` and only integer row indices are kept in memory.
 
+The data.csv we used is available [here](https://huggingface.co/datasets/Dimitris02/Protein_interractions/tree/main) (place it in the prot-interaction folder to use it).
+
 ## Experiments
 
 Each protein pair belongs to a species, which lets us ask three different
