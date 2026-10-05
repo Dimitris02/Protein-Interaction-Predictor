@@ -1,5 +1,7 @@
 # Protein–Protein Interaction Prediction
 
+This repository stores all the scripts that were used in my [master's thesis](https://olympias.lib.uoi.gr/jspui/handle/123456789/40442)
+
 Predicts whether two proteins **interact** or **do not interact**, using only
 their amino-acid–derived embeddings.
 
